@@ -5,7 +5,7 @@ ML classification project for classifying hotel booking demand/cancellations.
 Model Building
 
 After cleaning and exploring the dataset, our team used 3 classification algorithms that would be
-suitable for predicting cancellations in our analysis (i.e., Logistic Regression, Decision Tree, Random Forest).
+suitable for predicting cancellations in our analysis. 
 Based on the correlational matrix and the nature of our large dataset, and also the Random Forest algorithm
 didn’t run if there is a variable that has more than 53 levels, we removed the country variable (178 variables).
 We decided to remove the variable instead of creating dummy variables to ignore the dummy trap. Lastly, as
