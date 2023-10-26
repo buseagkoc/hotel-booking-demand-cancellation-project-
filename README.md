@@ -1,5 +1,5 @@
 # hotel-booking-demand-cancellation-project-
-Data Mining (ML) project for classifying hotel booking demand/cancellations. 
+Machine Learning project for classifying hotel booking demand/cancellations. 
 
 
 Model Building
